@@ -1,7 +1,0 @@
-{
-  "name": "squirrel",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
